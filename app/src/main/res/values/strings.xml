@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News House</string>
+    <string name="Img">ImageView</string>
+    <string name="news_heading">News Heading</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="ckc">Check Connection !!!</string>
+    <string name="refresh">Refresh</string>
+</resources>
